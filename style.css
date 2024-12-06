@@ -1,0 +1,38 @@
+p::first-letter {
+  text-transform: uppercase;
+}
+
+.list-hobby {
+  border-style: solid;
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
+}
+
+.list-hobby:hover {
+  background-color: rgb(4, 4, 60);
+  color: aliceblue;
+  cursor: pointer;
+}
+
+#list-hobby {
+  border-style: solid;
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
+}
+
+.hobby > button {
+  border-style: solid;
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
+}
+
+#list-hobby:hover {
+  background-color: rgb(4, 4, 60);
+  color: aliceblue;
+  cursor: pointer;
+}
+.hobby > button:hover {
+  background-color: rgb(4, 4, 60);
+  color: aliceblue;
+  cursor: pointer;
+}
